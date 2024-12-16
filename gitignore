@@ -1,0 +1,13 @@
+
+# Fichiers générés automatiquement  
+build/  
+*.iml  
+pubspec.lock  
+.flutter-plugins  
+.flutter-plugins-dependencies  
+packages/  
+
+# Cache  
+.dart_tool/  
+.idea/  
+.vscode/  
